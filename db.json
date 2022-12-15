@@ -1,33 +1,28 @@
 {
-    "users": [
-        {
-            "id":1,
-            "title":"hello",
-            "isCompleted":false
-        }, {
-            "id":2,
-            "title":"hello2",
-            "isCompleted":false
-        }
-    ],
-    "accounts": [
-            {
-                "id":1,
-                "name":"xyz",
-                "roll":909
-            },
-            {
-                "id":1,
-                "name":"xyz",
-                "roll":909
-            }
-    ],
-    "transactions": [
-
-    ],
-    "payees":[
-        
-    ]
-    
-
+  "user": [
+    {
+      "Name": "Krishan Kumar",
+      "Age": "24",
+      "Gender": "Male",
+      "Country": "India",
+      "Profession": "employee",
+      "id": 2
+    },
+    {
+      "Name": "krishan",
+      "Age": "56",
+      "Gender": "Female",
+      "Country": "Antigua and Barbuda",
+      "Profession": "student",
+      "id": 3
+    },
+    {
+      "Name": "krishan",
+      "Age": "56",
+      "Gender": "Female",
+      "Country": "Bahrain",
+      "Profession": "student",
+      "id": 4
+    }
+  ]
 }
